@@ -18,6 +18,7 @@ nav:
   about: /about/
   articles: /archives/
   projects: /projects/
+  Reverse Date Parser: /rdp
 
 
 # Links to your social media accounts.
@@ -143,7 +144,7 @@ mathjax:
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
   enabled: false
-  shortname: cactus-1
+  shortname: jyb
 
 # Fill in your Utterances data to enable Utterances comments
 utterances:
