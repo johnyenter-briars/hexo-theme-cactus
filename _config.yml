@@ -83,7 +83,7 @@ logo:
   height: 150
   url: /images/computer3.png
   gravatar: false
-  grayout: true
+  grayout: false
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
